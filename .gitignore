@@ -1,0 +1,9 @@
+# Local environment configuration
+.agents/
+.aws/
+.codex/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
